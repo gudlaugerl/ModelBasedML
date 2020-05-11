@@ -55,7 +55,7 @@
 53,54,3,19,Dog of Death,23.4,7.8,1992,03,12
 54,55,3,20,Colonel Homer,25.5,8.0,1992,03,26
 55,56,3,21,Black Widower,17.3,8.3,1992,04,09
-56,57,3,22,The Otto Show,17.5,7.7,1992,04,23
+56,57,3,22,The Otto Show,17.5,7.8,1992,04,23
 57,58,3,23,Bart's Friend Falls in Love,19.5,7.8,1992,05,07
 58,59,3,24,"Brother, Can You Spare Two Dimes?",17.2,8.3,1992,08,27
 59,60,4,1,Kamp Krusty,21.8,8.5,1992,09,24
@@ -288,7 +288,7 @@
 286,287,13,18,I Am Furious (Yellow),12.4,7.7,2002,04,28
 287,288,13,19,The Sweetest Apu,11.8,6.7,2002,05,05
 288,289,13,20,Little Girl in the Big Ten,11.2,7.1,2002,05,12
-289,290,13,21,The Frying Game,10.8,7.0,2002,05,19
+289,290,13,21,The Frying Game,10.8,6.9,2002,05,19
 290,291,13,22,Poppa's Got a Brand New Badge,8.2,7.8,2002,05,22
 291,292,14,1,Treehouse of Horror XIII,16.7,7.6,2002,11,03
 292,293,14,2,How I Spent My Strummer Vacation,12.5,7.3,2002,11,10
@@ -417,7 +417,7 @@
 415,416,19,16,Papa Don't Leech,6.9,5.9,2008,04,13
 416,417,19,17,Apocalypse Cow,7.69,6.7,2008,04,27
 417,418,19,18,Any Given Sundance,6.18,6.9,2008,05,04
-418,419,19,19,Mona Leaves-a,6.02,6.9,2008,05,11
+418,419,19,19,Mona Leaves-a,6.02,7.0,2008,05,11
 419,420,19,20,All About Lisa,6.11,6.3,2008,05,18
 420,421,20,1,"Sex, Pies and Idiot Scrapes",9.3,7.2,2008,09,28
 421,422,20,2,Lost Verizon,7.43,6.9,2008,10,05
@@ -486,7 +486,7 @@
 484,485,22,21,500 Keys,6.0,7.1,2011,05,15
 485,486,22,22,The Ned-Liest Catch,5.25,6.8,2011,05,22
 486,487,23,1,The Falcon and the D'ohman,8.08,7.0,2011,09,25
-487,488,23,2,Bart Stops to Smell the Roosevelts,6.19,7.0,2011,10,02
+487,488,23,2,Bart Stops to Smell the Roosevelts,6.19,6.9,2011,10,02
 488,489,23,3,Treehouse of Horror XXII,8.1,6.4,2011,10,30
 489,490,23,4,Replaceable You,7.97,6.4,2011,11,06
 490,491,23,5,The Food Wife,7.5,7.0,2011,11,13
@@ -557,7 +557,7 @@
 555,556,26,4,Treehouse of Horror XXV,7.76,7.4,2014,10,19
 556,557,26,5,Opposites A-Frack,4.22,6.1,2014,11,02
 557,558,26,6,Simpsorama,6.7,7.9,2014,11,09
-558,559,26,7,Blazed and Confused,6.7,6.8,2014,11,16
+558,559,26,7,Blazed and Confused,6.7,6.7,2014,11,16
 559,560,26,8,Covercraft,3.45,6.3,2014,11,23
 560,561,26,9,I Won't Be Home for Christmas,6.52,6.6,2014,12,07
 561,562,26,10,The Man Who Came to Be Dinner,10.62,6.6,2015,01,04
@@ -583,7 +583,7 @@
 581,582,27,8,Paths of Glory,5.53,6.8,2015,12,06
 582,583,27,9,Barthood,5.97,8.4,2015,12,13
 583,584,27,10,The Girl Code,4.41,6.5,2016,01,03
-584,585,27,11,Teenage Mutant Milk-Caused Hurdles,8.33,6.6,2016,01,10
+584,585,27,11,Teenage Mutant Milk-Caused Hurdles,8.33,6.5,2016,01,10
 585,586,27,12,Much Apu About Something,3.95,6.6,2016,01,17
 586,587,27,13,Love Is in the N2-O2-Ar-CO2-Ne-He-CH4,2.89,6.3,2016,02,14
 587,588,27,14,Gal of Constant Sorrow,3.1,6.5,2016,02,21
@@ -630,12 +630,12 @@
 628,629,29,11,Frink Gets Testy,8.04,6.1,2018,01,14
 629,630,29,12,Homer Is Where the Art Isn't,2.1,6.6,2018,03,18
 630,631,29,13,3 Scenes Plus a Tag from a Marriage,2.15,6.6,2018,03,25
-631,632,29,14,Fears of a Clown,2.06,6.1,2018,04,01
+631,632,29,14,Fears of a Clown,2.06,6.0,2018,04,01
 632,633,29,15,No Good Read Goes Unpunished,2.15,6.4,2018,04,08
 633,634,29,16,King Leer,2.26,6.3,2018,04,15
 634,635,29,17,Lisa Gets the Blues,2.19,6.8,2018,04,22
 635,636,29,18,Forgive and Regret,2.47,7.0,2018,04,29
-636,637,29,19,Left Behind,2.15,6.7,2018,05,06
+636,637,29,19,Left Behind,2.15,6.6,2018,05,06
 637,638,29,20,Throw Grampa from the Dane,2.14,6.7,2018,05,13
 638,639,29,21,Flanders' Ladder,2.1,7.6,2018,05,20
 639,640,30,1,Bart's Not Dead,3.24,6.2,2018,09,30
